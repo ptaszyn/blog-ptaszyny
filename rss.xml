@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog Ptaszyny]]></title><description><![CDATA[Próba blogu o IT. Backend i trochę Frontend. Java, SQL, DevOps]]></description><link>https://ptaszynski.it</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Jun 2020 10:49:17 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[Pełen relaks na tarasie mieszkanka. Piękny widok na Wisłę. “Cykam” zdjęcie i wrzucam do pierwszego postu na tym blogu. Liczę, że uda mi się…]]></description><link>https://ptaszynski.it/hello-world/</link><guid isPermaLink="false">https://ptaszynski.it/hello-world/</guid><pubDate>Fri, 12 Jun 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Pełen relaks na tarasie mieszkanka. Piękny widok na Wisłę. “Cykam” zdjęcie i wrzucam do pierwszego postu na tym blogu.&lt;/p&gt;
+&lt;p&gt;Liczę, że uda mi się polecieć z tym koksem i napiszę coś wartościowego dla kogoś!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/d2602/wisla_river.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABVdzmJaiBR//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBH/2gAIAQEAAQUCXn9j84WspWCmmjs+QdT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwFX/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAgEFAQAAAAAAAAAAAAAAAAEhAjEzQUKB/9oACAEBAAY/AslIpR0/CCXY2f/EABwQAQACAgMBAAAAAAAAAAAAAAEAEUFRIXGBkf/aAAgBAQABPyHhX6xEPLMritsnBUdwwtTSULD6n//aAAwDAQACAAMAAAAQPN//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8Qmof/xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QqKj/xAAcEAEBAQEAAgMAAAAAAAAAAAABEQAxIUFRYbH/2gAIAQEAAT8QY1xSFD+YTJZw4kFugmBeFUvy3IuwXq/eesHLBd//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Widok na Wisłę&quot;
+        title=&quot;Widok na Wisłę&quot;
+        src=&quot;/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/1c72d/wisla_river.jpg&quot;
+        srcset=&quot;/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/a80bd/wisla_river.jpg 148w,
+/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/1c91a/wisla_river.jpg 295w,
+/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/1c72d/wisla_river.jpg 590w,
+/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/a8a14/wisla_river.jpg 885w,
+/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/fbd2c/wisla_river.jpg 1180w,
+/blog-ptaszyny/static/66126f1341702405e0f5c08b39f478f8/d2602/wisla_river.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
